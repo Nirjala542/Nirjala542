@@ -32,9 +32,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Nirjala542&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <h2 style="color:#00C4CC;">✍️ Random Dev Quote</h2>
-</p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-542/Nirjala542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
