@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫Hii,  i am nirjala 
+![💫Hii,  i am nirjala ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=ff69b4&center=true&vCenter=true&width=450&lines=I+am+Nirjala+Sharma)
+
 🚀 Open Source Contributions<br>        - Contributor @ ECWOC<br>        - Contributor @ Open Source Global with Nexfello<br><br>🎓 Achievements<br>        - Google Student Ambassador 2025 — Top 250 Selected 🌟<br><br>🧑‍💻 Professional Coding Journey<br><br>- I am a B.Tech CSE (AI & ML) 2nd Year student at DAV Institute of Engineering & Technology, Jalandhar, Punjab.<br>- I have a strong foundation in Web Development and practical experience with HTML, CSS, JavaScript, and Python.<br>- I am also deeply enthusiastic about Artificial Intelligence and Machine Learning, exploring models, algorithms, and their real-world applications.<br>- Actively contributing to open source projects, I am committed to continuous learning, problem-solving, and building impactful solutions.<br><br>🌍 Leadership & Extracurriculars<br>   - Designer — HackWithIndia 2026<br>   - Social Media Lead — E-Cell, DAVIET<br>   - Social Media Lead  — NSS, DAVIET<br>   - Passionate about reading,  photography, and engaging with my community and peers
 
 
@@ -22,18 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nirjala542&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+542/Nirjala542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--
-**Nirjala542/Nirjala542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
