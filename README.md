@@ -1,6 +1,7 @@
 # Hii , Thankyou for visting my profile 
-![ i am nirjala ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=67&color=ff69b4&center=true&vCenter=true&width=450&lines=I+am+Nirjala+Sharma)
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=ff69b4&width=600&lines=I+am+Web+Developer;CSE'28+AI+ML+student;Open+Source+Contributor)
+![I am Nirjala](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=ff69b4&center=true&vCenter=true&width=600&lines=I+am+Nirjala+Sharma)
+
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=1A1B1C&background=C0C0C0&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;CSE'28+AI-ML+student;Open+Source+Contributor)
 
 
 🚀 Open Source Contributions<br>        - Contributor @ ECWOC<br>        - Contributor @ Open Source Global with Nexfello<br><br>🎓 Achievements<br>        - Google Student Ambassador 2025 — Top 250 Selected 🌟<br><br>🧑‍💻 Professional Coding Journey<br><br>- I am a B.Tech CSE (AI & ML) 2nd Year student at DAV Institute of Engineering & Technology, Jalandhar, Punjab.<br>- I have a strong foundation in Web Development and practical experience with HTML, CSS, JavaScript, and Python.<br>- I am also deeply enthusiastic about Artificial Intelligence and Machine Learning, exploring models, algorithms, and their real-world applications.<br>- Actively contributing to open source projects, I am committed to continuous learning, problem-solving, and building impactful solutions.<br><br>🌍 Leadership & Extracurriculars<br>   - Designer — HackWithIndia 2026<br>   - Social Media Lead — E-Cell, DAVIET<br>   - Social Media Lead  — NSS, DAVIET<br>   - Passionate about reading,  photography, and engaging with my community and peers
@@ -17,7 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjala542&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nirjala542&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nirjala542&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Nirjala542?achievement=pull-shark&tab=achievements)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nirjala542&limit=5&theme=dark&combine_all_yearly_contributions=true)
