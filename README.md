@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌸%20I%20am%20Nirjala%20🌸&fontSize=34&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌸%20I%20am%20Nirjala%20🌸&fontSize=60&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
 </p>
 
 <p align="center">
