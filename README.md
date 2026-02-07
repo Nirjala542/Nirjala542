@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/Nirjala542/Nirjala542/main/header.svg" />
 </p>
 
-
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=1A1B1C&background=C0C0C0&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;CSE'28+AI-ML+student;Open+Source+Contributor)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=1A1B1C&background=C0C0C0&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;CSE'28+AI-ML+student;Open+Source+Contributor" />
+</p>
 
 
 <p align="center">
