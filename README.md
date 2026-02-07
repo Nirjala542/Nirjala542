@@ -1,6 +1,6 @@
 # Hii ✨, Thankyou for visting my profile 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/header.svg" />
+  <img src="https://raw.githubusercontent.com/Nirjala542/Nirjala542/main/header.svg" />
 </p>
 
 
