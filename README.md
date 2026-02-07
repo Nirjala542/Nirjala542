@@ -1,5 +1,8 @@
 # Hii ✨, Thankyou for visting my profile 
-![I am Nirjala](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=ff69b4&center=true&vCenter=true&width=600&lines=I+am+Nirjala+Sharma)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/header.svg" />
+</p>
+
 
 ![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=1A1B1C&background=C0C0C0&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;CSE'28+AI-ML+student;Open+Source+Contributor)
 
