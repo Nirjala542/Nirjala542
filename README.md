@@ -15,7 +15,7 @@
 <p align="center">
   <h2 style="color:#00C4CC;">🚀 Open Source Contributions</h2>
 </p>
-<br>        - Contributor <b></b>@ ECWOC<b/><br>        - Contributor <b>@ Open Source Global with Nexfello<b/><br><br><p align="center">
+<br>        - Contributor <b>@ ECWOC<b/><br>        - Contributor <b>@ Open Source Global with Nexfello<b/><br><br><p align="center">
   <h2 style="color:#00C4CC;">🎓 Achievements</h2>
 </p><br>        - Google Student Ambassador 2025 — <b></b>Top 250 Selected<b/>-out of 5k+ google student Ambassadors 🌟<br><br><p align="center">
   <h2 style="color:#00C4CC;">🧑‍💻 Professional Coding Journey</h2>
