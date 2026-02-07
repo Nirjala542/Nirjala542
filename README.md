@@ -1,7 +1,12 @@
-# Hii ✨, Thankyou for visting my profile 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🌸%20I%20am%20Nirjala%20🌸&fontSize=26&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=%23%20Hii%20✨,%20Thankyou%20for%20visiting%20my%20profile&fontSize=18&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌸%20I%20am%20Nirjala%20🌸&fontSize=26&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=1A1B1C&background=C0C0C0&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;CSE'28+AI-ML+student;Open+Source+Contributor" />
 </p>
