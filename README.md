@@ -44,7 +44,6 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Nirjala542&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Nirjala542?achievement=pull-shark&tab=achievements)
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🌸%20Thankyou%20for%20visiting%20my%20profile%20🌸&fontSize=18&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
 </p>
