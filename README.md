@@ -220,7 +220,7 @@ https://leetcode.com/u/Nirjala542/
 ## 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nirjala542/Nirjala542/output/github-snake-dark.svg" alt="GitHub Activity Snake">
+  <img src="https://raw.githubusercontent.com/Nirjala542/Nirjala542/output/github-snake.svg" alt="GitHub Activity Snake">
 </p>
 
 <p align="center">
