@@ -306,7 +306,7 @@ A fun program that **generates random fake news headlines** using Python logic.
 **Tech:**  
 `Python`
 
-🔗 https://github.com/Nirjala542/fake-headline-generator
+🔗 https://github.com/Nirjala542/Fake_headline_generate_python
 
 </td>
 </tr>
