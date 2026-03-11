@@ -1,8 +1,60 @@
 
-<
+<div align="center">
+
+# 🌟 Welcome to Nirjala's Profile 🌟
+
+<p><em>Building the future through code</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration | web developer-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-DSA_&_Problem_Solving| Data Analytics | Machine learning-blue" alt="Focus" />
+
+</div>
+
+<hr>
+## 🌊 My Journey & Skills Flow
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Heyy!%20I%20I%20Am%20Nirjala&fontSize=60&fontColor=ffffff&color=0:0fd3ff,50:3a7bd5,100:0fd3ff" />
+  <img src="https://img.shields.io/badge/CSE-AIML%20'28-orange?style=for-the-badge&logo=edu" />
+  &nbsp;➡️&nbsp;
+  <img src="https://img.shields.io/badge/Python-Full%20Stack%20Developer-blue?style=for-the-badge&logo=python" />
+  &nbsp;➡️&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analytics-Currently-yellow?style=for-the-badge&logo=apache" />
+  &nbsp;➡️&nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-Future-purple?style=for-the-badge&logo=tensorflow" />
 </p>
+
+<p align="center">
+💡 This shows my academic background, skills journey, current focus, and future goals.
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirjala-sharma-694397307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nirjala%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nirjala542" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nirjala542-18142?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Nirjala542/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Nirjala542-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/nirjala_s_" target="_blank">
+    <img src="https://img.shields.io/badge/X-@nirjala__s__-pink?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+<p align="center">
+💡 Passionate about learning, building projects, and exploring new technologies
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nirjala542&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
+</p>
+
 <p align="center">
   <h2 style="color:#00C4CC;">🚀 Open Source Contributions</h2>
 </p>
@@ -260,6 +312,7 @@ A fun program that **generates random fake news headlines** using Python logic.
 </tr>
 </table>
 </div>
+
 ## 🎯 Current Focus
 
 ```cpp
@@ -279,38 +332,5 @@ int main() {
     me.motivation();
     return 0;
 }
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nirjala-sharma-694397307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nirjala542" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Nirjala542/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/nirjala_s_" target="_blank">
-    <img src="https://img.shields.io/badge/X-@nirjala__s__-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
-
-<p align="center">
-💡 Passionate about learning, building projects, and exploring new technologies
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nirjala542&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">
-<i>Correctness first. Optimization follows..</i>
-</p>
+'''
