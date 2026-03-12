@@ -42,9 +42,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Nirjala542-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/nirjala_s_" target="_blank">
-    <img src="https://img.shields.io/badge/X-@nirjala__s__-pink?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
+ 
 </p>
 
 <p align="center">
