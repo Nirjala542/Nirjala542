@@ -85,19 +85,6 @@
 
 - 🚀 Dedicated to **open-source development**, problem-solving, and building innovative tech solutions.
 
-
-<p align="center">
-  <h2 style="color:#00C4CC;">🌍 Leadership & Extracurriculars</h2>
-</p>
-
-- 🎨 **Designer** — *HackWithIndia 2026*
-- 📢 **Social Media Lead** — *E-Cell, DAVIET*
-- 📢 **Social Media Lead** — *NSS, DAVIET*
-
-- 📚 Passionate about **reading, photography, and community engagement**,  
-  actively connecting with peers and contributing to the tech community.
-  ## 🚀 Tech Stack
-
 <div align="center">
 
 ### 💻 Languages
