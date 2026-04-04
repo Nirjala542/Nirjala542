@@ -54,36 +54,18 @@
 </p>
 
 <p align="center">
-  <h2 style="color:#00C4CC;">🚀 Open Source Contributions</h2>
-</p>
-
-- 🌟 Contributor — **ECWOC**
-- 🌍 Contributor — **Open Source Global with Nexfello**
-- 🤝 Actively collaborating with developers and contributing to impactful open-source initiatives.
-
-
-<p align="center">
-  <h2 style="color:#00C4CC;">🏆 Achievements</h2>
-</p>
-
-- 🎓 **Google Student Ambassador 2025** — Selected among **Top 250** from **5000+ applicants**.
-- 🌟 Recognized for leadership, innovation, and active community participation in the tech ecosystem.
-
-
-<p align="center">
   <h2 style="color:#00C4CC;">🧑‍💻 Professional Coding Journey</h2>
 </p>
 
 - 🎓 **B.Tech CSE (AI & ML), 2nd Year**  
   *DAV Institute of Engineering & Technology, Jalandhar, Punjab*
-
 - 💻 Strong foundation in **Web Development**, with hands-on experience in  
   **HTML, CSS, JavaScript, and Python**.
-
 - 🤖 Deeply passionate about **Artificial Intelligence and Machine Learning**,  
   continuously exploring algorithms, models, and real-world applications.
+- 🚀 Dedicated to **open-source 🌟 Contributor — **ECWOC****, problem-solving, and building innovative tech solutions.
+- 🎓 **Google Student Ambassador 2025** — Selected among **Top 250** from **5000+ applicants**.
 
-- 🚀 Dedicated to **open-source development**, problem-solving, and building innovative tech solutions.
 
 <div align="center">
 
