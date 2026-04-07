@@ -161,17 +161,14 @@
 
 🔗 **LeetCode:**  
 https://leetcode.com/u/Nirjala542/
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-## 📊 GitHub Statistics
-<p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirjala542&cache_seconds=1800&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
 
-<p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirjala542&cache_seconds=1800&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirjala542&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Nirjala542&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -183,20 +180,14 @@ https://leetcode.com/u/Nirjala542/
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nirjala542&theme=tokyonight&utcOffset=5.30" width="31%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirjala542&theme=tokyonight&hide_border=true" width="64%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjala542&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjala542&layout=compact&theme=tokyonight&count_private=true&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjala542&layout=compact&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjala542&layout=donut&theme=radical" />
-</p>
+
 ## 🐍 GitHub Activity Snake
 
 <p align="center">
