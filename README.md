@@ -68,7 +68,6 @@
 
 
 <div align="center">
-
 ### 💻 Languages
 <table>
 <tr>
